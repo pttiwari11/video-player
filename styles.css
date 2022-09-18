@@ -1,0 +1,71 @@
+body {
+    font :14px  arial;
+    text-align : center;
+    background : #36A;
+}
+h2 {
+    color : white;
+}
+canvas {
+    border : 10px white solid;
+    cursor : pointer;
+}
+a {
+  color : #F93;
+}
+
+button {
+    cursor : pointer;
+    width: 8rem;
+    border-radius: 8px;
+}
+
+button:hover {
+    background-color: dimgrey;
+    color: #36A;
+}
+
+.icons {
+    display: flex;
+    justify-content : space-around;
+    padding: 4rem 28rem 0 28rem;
+}
+
+.inputDiv {
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem 28rem 5rem 28rem;
+}
+
+input {
+    line-height: 2rem;
+    border: 3px solid;
+    border-radius: 8px;
+    text-align : center;
+    padding-right: 1.5rem;
+}
+
+input:hover {
+    color: #36A;
+}
+
+.cross {
+    margin-left: -1rem;
+    cursor : pointer;
+    border-radius: 8px;
+    text-align : center;
+    
+}
+
+.cross:hover {
+    color: #36A;
+}
+.progressBar {
+    margin-top: 2rem;
+}
+
+#myProgressBar {
+    width: 35vw;
+    cursor : pointer;
+    
+}
