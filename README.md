@@ -5,5 +5,7 @@
 ## In SRT Input : Enter subtitles file url
 ## Backward Button : puts 5 secs backward
 ## Forward Button : puts 5 secs forward
-![alt text](https://github.com/pttiwari11/video-player/blob/main/video-player.jpg?raw=true)
+![alt text](https://github.com/pttiwari11/video-player/blob/master/video-player-preview/video-player.jpg?raw=true)
 ![alt text](https://github.com/pttiwari11/video-player/blob/master/video-player-preview/video-player2.jpg?raw=true)
+![alt text](https://github.com/pttiwari11/video-player/blob/master/video-player-preview/video-player3.jpg?raw=true)
+![alt text](https://github.com/pttiwari11/video-player/blob/master/video-player-preview/video-player4.jpg?raw=true)
